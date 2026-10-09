@@ -1,0 +1,4 @@
+1. WAP to input a decimal number print the corresponding binary.
+2. WAP to input a number n and find the prime factorisation of the number.
+3. WAP find out the factorial of a number using function.
+4. WAP 
