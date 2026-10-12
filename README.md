@@ -193,5 +193,5 @@ Your contribution can be reviewed before it is merged into the main repository.
 
 ### Find me on INSTAGRAM
 
-[![GitHub](https://img.shields.io/badge/instagram-aayush--xid--su-181717?style=for-the-badge&logo=instagram)](https://instagram.com/aayush-xid-su)
+[![GitHub](https://img.shields.io/badge/instagram-aayush__xid__su-181717?style=for-the-badge&logo=instagram)](https://instagram.com/aayush_xid_su)
 </div>
