@@ -3,3 +3,12 @@ WAP to find largest 2nd largest and 3rd largest array using python
 WAP to remove the duplicate element from an array
 WAP to creata a bar chat of a students marks
 WAP to find the grade of a student marks
+
+[Dataset related questions]
+write a prog to display only student name and marks
+write a prog to find the students who have got 80 and above marks
+WAP to find the student who have less than 75 attendence
+WAP to find the avg of different department and create the graph of each department
+WAP to classify students into a grade
+WAP find the higheset and lowest obtain by a student
+Create a bar chart showing total no of students from each department
