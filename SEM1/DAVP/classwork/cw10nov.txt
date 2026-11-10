@@ -1,0 +1,5 @@
+create a numpy array and calculate the sum of all element also display all the element;
+WAP to find largest 2nd largest and 3rd largest array using python
+WAP to remove the duplicate element from an array
+WAP to creata a bar chat of a students marks
+WAP to find the grade of a student marks

@@ -1,0 +1,86 @@
+/* General Styling */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background-color: steelblue;
+    color: white;
+    padding: 25px;
+}
+
+/* Navigation */
+nav {
+    background-color: #333;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+/* Main Container */
+.container {
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+    padding: 20px;
+}
+
+/* Content Boxes */
+.box {
+    background-color: lightgray;
+    padding: 30px;
+    flex: 1;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
+
+/* Tablet Screen */
+@media screen and (max-width: 768px) {
+    .container {
+        flex-wrap: wrap;
+    }
+
+    .box {
+        flex: 1 1 40%;
+    }
+
+    header h1 {
+        font-size: 28px;
+    }
+}
+
+/* Mobile Screen */
+@media screen and (max-width: 480px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .box {
+        width: 100%;
+    }
+
+    nav a {
+        display: block;
+        padding: 10px;
+    }
+
+    header h1 {
+        font-size: 22px;
+    }
+}
