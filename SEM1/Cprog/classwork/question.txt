@@ -1,0 +1,3 @@
+//cw dt. 16 nov
+WAP to find out max sum of 2 consecutive array elemets using pointer
+WAP to create an array of character, find out the max distance in-between two consecutive element
