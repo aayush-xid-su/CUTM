@@ -36,6 +36,7 @@
 
 // // data types
 // // number, string, Boolean, Undefined, Null, BigInt, Symbol
+// // NN SS BB U shortform to remember
 // let num = 123;
 // let str = "Ayush";
 // let isStudent = true;
@@ -73,3 +74,20 @@
 // // obj[key]
 // console.log(student.fname);
 // console.log(student["age"]);
+
+// operator
+
+// Arithmatic operator
+let num1 = 10
+let num2 = 20
+console.log("num1 + num2 =", num1+num2)
+console.log("num1 - num2 =", num1-num2)
+console.log("num1 * num2 =", num1*num2)
+console.log("num1 / num2 =", num1/num2)
+console.log("num1 ** num2 =", num1**num2)
+console.log("num1  =", ++num1)
+console.log("num1  =", num1++)
+console.log("num1  =", --num1)
+console.log("num1  =", num1++)
+
+// Assignment operator
